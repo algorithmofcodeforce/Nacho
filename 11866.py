@@ -1,25 +1,32 @@
-n, m = (input("범위, n번째 사람")).split()
-print("범위:",n,"단위:",m)
+n, m = (input("범위 단위")).split()
+print("범위:", n, "단위:", m)
 
 intn = int(n)
 intm = int(m)
-numbersample = list(range(1, intn+1))
+numbersample = list(range(1, intn + 1))
 suyeol = []
 josephus = []
 count = 1
 
-for i in range (intn):
-    for j in range(1,intn+1):
+for i in range(intn):
+    for j in range(1, intn + 1):
         suyeol.append(j)
 
 print(suyeol)
-for i in range (intm-1, len(suyeol),intm):
+for i in range(intm - 1, len(suyeol), intm):
     if count <= intn:
         josephus.append(suyeol[i])
+        print(suyeol[i])
         count += 1
-        print(i,josephus)
+        print(i, josephus)
+        rmpoint = suyeol[i]
+        for j in range(intn):
+            suyeol.remove(rmpoint)
 
-#리스트 인덱스값 삭제 연습
+
+
+    print(suyeol)
+# 리스트 인덱스값 삭제 연습
 '''
 prelist = [1,1,0,1,1,0,1,1,0,1,1,0,1,1,0]
 prelistwo = []
