@@ -8,7 +8,7 @@ for i in range(t):
     this = 0
     if index >=  n:
         index = n-1
-    for j in range(100):
+    for j in range(10000):
         maxtemp = max(mon)
         if mon[0] < maxtemp:
             temp = mon[0]
