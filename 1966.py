@@ -6,6 +6,8 @@ for i in range(t):
     temp = 0
     maxtemp = 0
     this = 0
+    if index >=  n:
+        index = n-1
     for j in range(100):
         maxtemp = max(mon)
         if mon[0] < maxtemp:
