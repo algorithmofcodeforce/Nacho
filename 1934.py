@@ -2,8 +2,6 @@ t = int(input())
 answer = []
 for i in range(t):
     m, n = map(int, input().split())
-    tempm = m
-    tempn = n
     xnum = 2
     mlist = []
     nlist= []
