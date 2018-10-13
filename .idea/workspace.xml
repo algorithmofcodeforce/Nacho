@@ -20,11 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2609.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2609.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2609.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="345">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3036.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3036.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -46,14 +55,14 @@
       <list>
         <option value="$PROJECT_DIR$/1934.py" />
         <option value="$PROJECT_DIR$/2609.py" />
+        <option value="$PROJECT_DIR$/3036.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="y" value="7" />
-    <option name="width" value="1279" />
-    <option name="height" value="1024" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -89,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2609">
+  <component name="RunManager" selected="Python.3036">
     <configuration name="11866(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Nacho" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,14 +171,34 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="3036" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Nacho" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3036.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.1934" />
       <item itemvalue="Python.1966" />
       <item itemvalue="Python.11866(2)" />
       <item itemvalue="Python.2609" />
+      <item itemvalue="Python.3036" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3036" />
         <item itemvalue="Python.2609" />
         <item itemvalue="Python.1934" />
         <item itemvalue="Python.11866(2)" />
@@ -191,18 +220,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="7" width="1279" height="1024" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18923199" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947807" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33039647" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32223415" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39977974" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39957035" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -228,17 +257,16 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2609.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="15" />
+          <url>file://$PROJECT_DIR$/3036.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2609.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/3036.py</url>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -283,8 +311,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2609.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3036.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>
