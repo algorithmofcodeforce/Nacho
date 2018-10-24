@@ -28,3 +28,4 @@ for num in range(1,Count):
         print(i[0],end='/')
         print(i[num])
 
+##채점시 틀렸따고 뜸..
